@@ -80,9 +80,4 @@ FUNCTION zkayky_testes.
     COLLECT wa_saida INTO e_tb_saida.
   ENDLOOP.
 
-
-
-
-
-
 ENDFUNCTION.

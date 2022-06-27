@@ -10,11 +10,7 @@ FUNCTION zkayky_testes.
 *"----------------------------------------------------------------------
 
   DATA: wa_entrada TYPE zentrada_st,
-
-        it_config  TYPE z_ty_config,
         wa_config  TYPE zconfig_st,
-
-        it_saida   TYPE z_ty_saida,
         wa_saida   TYPE zsaida_st.
 
   LOOP AT i_tb_entrada INTO wa_entrada.
